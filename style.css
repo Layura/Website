@@ -1,6 +1,11 @@
+body {
+  background: rgba(0,0,0,1);
+  color: grey;
+}
+
 header {
 	padding-bottom: 60px;
-
+  font-family: 'Condiment', cursive;
 }
 
 #main {
@@ -9,7 +14,8 @@ header {
   max-width: 1000px;
   background:  url(images/bg.jpg);
   background-size: cover;
-  color: grey;
+  font-family: 'Metamorphous', cursive;
+
   } 
 
 div{
@@ -17,9 +23,7 @@ div{
 	background: rgba(0,0,0,0.5);
 }
 
-body {
-  background: rgba(0,0,0,1);
-}
+
 
 blockquote {
   margin-right: 0;
